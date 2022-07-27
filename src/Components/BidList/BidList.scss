@@ -1,0 +1,19 @@
+.bids-div {
+  width: 100%;
+  height: auto;
+  display: flex;
+  flex-direction: column;
+  margin-top: 50px;
+  justify-content: space-around;
+  align-items: center;
+}
+.bids {
+  display: flex;
+  width: 90%;
+  height: 80px;
+  flex-direction: row;
+  justify-content: space-around;
+  background-color: bisque;
+  margin-top: 20px;
+  align-items: center;
+}

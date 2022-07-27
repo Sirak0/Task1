@@ -1,14 +1,11 @@
 .App {
-  align-items: center;
   display: flex;
-  flex-direction: column;
 }
-.sections{
-  margin-top: 50px;
+.sections {
+  margin-top: 10px;
   width: 100%;
+  height: 40px;
   display: flex;
   align-items: center;
-  justify-content: center;
   justify-content: space-around;
 }
-
